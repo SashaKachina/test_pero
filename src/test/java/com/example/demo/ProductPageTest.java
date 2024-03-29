@@ -20,6 +20,6 @@ public class ProductPageTest {
 
     @Test
     public void search() throws InterruptedException {
-        Thread.sleep(1_000);
+        Thread.sleep(11_000);
     }
 }
